@@ -1,0 +1,15 @@
+/Users/charlotte/Desktop/AOC/Day20/Day20/bin/Debug/net6.0/Day20
+/Users/charlotte/Desktop/AOC/Day20/Day20/bin/Debug/net6.0/Day20.deps.json
+/Users/charlotte/Desktop/AOC/Day20/Day20/bin/Debug/net6.0/Day20.runtimeconfig.json
+/Users/charlotte/Desktop/AOC/Day20/Day20/bin/Debug/net6.0/Day20.dll
+/Users/charlotte/Desktop/AOC/Day20/Day20/bin/Debug/net6.0/Day20.pdb
+/Users/charlotte/Desktop/AOC/Day20/Day20/obj/Debug/net6.0/Day20.csproj.AssemblyReference.cache
+/Users/charlotte/Desktop/AOC/Day20/Day20/obj/Debug/net6.0/Day20.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charlotte/Desktop/AOC/Day20/Day20/obj/Debug/net6.0/Day20.AssemblyInfoInputs.cache
+/Users/charlotte/Desktop/AOC/Day20/Day20/obj/Debug/net6.0/Day20.AssemblyInfo.cs
+/Users/charlotte/Desktop/AOC/Day20/Day20/obj/Debug/net6.0/Day20.csproj.CoreCompileInputs.cache
+/Users/charlotte/Desktop/AOC/Day20/Day20/obj/Debug/net6.0/Day20.dll
+/Users/charlotte/Desktop/AOC/Day20/Day20/obj/Debug/net6.0/refint/Day20.dll
+/Users/charlotte/Desktop/AOC/Day20/Day20/obj/Debug/net6.0/Day20.pdb
+/Users/charlotte/Desktop/AOC/Day20/Day20/obj/Debug/net6.0/Day20.genruntimeconfig.cache
+/Users/charlotte/Desktop/AOC/Day20/Day20/obj/Debug/net6.0/ref/Day20.dll

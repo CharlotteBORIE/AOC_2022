@@ -1,0 +1,15 @@
+/Users/charlotte/Desktop/AOC/Day18/Day18/bin/Debug/net6.0/Day18
+/Users/charlotte/Desktop/AOC/Day18/Day18/bin/Debug/net6.0/Day18.deps.json
+/Users/charlotte/Desktop/AOC/Day18/Day18/bin/Debug/net6.0/Day18.runtimeconfig.json
+/Users/charlotte/Desktop/AOC/Day18/Day18/bin/Debug/net6.0/Day18.dll
+/Users/charlotte/Desktop/AOC/Day18/Day18/bin/Debug/net6.0/Day18.pdb
+/Users/charlotte/Desktop/AOC/Day18/Day18/obj/Debug/net6.0/Day18.csproj.AssemblyReference.cache
+/Users/charlotte/Desktop/AOC/Day18/Day18/obj/Debug/net6.0/Day18.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charlotte/Desktop/AOC/Day18/Day18/obj/Debug/net6.0/Day18.AssemblyInfoInputs.cache
+/Users/charlotte/Desktop/AOC/Day18/Day18/obj/Debug/net6.0/Day18.AssemblyInfo.cs
+/Users/charlotte/Desktop/AOC/Day18/Day18/obj/Debug/net6.0/Day18.csproj.CoreCompileInputs.cache
+/Users/charlotte/Desktop/AOC/Day18/Day18/obj/Debug/net6.0/Day18.dll
+/Users/charlotte/Desktop/AOC/Day18/Day18/obj/Debug/net6.0/refint/Day18.dll
+/Users/charlotte/Desktop/AOC/Day18/Day18/obj/Debug/net6.0/Day18.pdb
+/Users/charlotte/Desktop/AOC/Day18/Day18/obj/Debug/net6.0/Day18.genruntimeconfig.cache
+/Users/charlotte/Desktop/AOC/Day18/Day18/obj/Debug/net6.0/ref/Day18.dll

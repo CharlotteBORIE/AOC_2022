@@ -1,0 +1,15 @@
+/Users/charlotte/Desktop/AOC/Day2/Day2/bin/Debug/net6.0/Day2
+/Users/charlotte/Desktop/AOC/Day2/Day2/bin/Debug/net6.0/Day2.deps.json
+/Users/charlotte/Desktop/AOC/Day2/Day2/bin/Debug/net6.0/Day2.runtimeconfig.json
+/Users/charlotte/Desktop/AOC/Day2/Day2/bin/Debug/net6.0/Day2.dll
+/Users/charlotte/Desktop/AOC/Day2/Day2/bin/Debug/net6.0/Day2.pdb
+/Users/charlotte/Desktop/AOC/Day2/Day2/obj/Debug/net6.0/Day2.csproj.AssemblyReference.cache
+/Users/charlotte/Desktop/AOC/Day2/Day2/obj/Debug/net6.0/Day2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charlotte/Desktop/AOC/Day2/Day2/obj/Debug/net6.0/Day2.AssemblyInfoInputs.cache
+/Users/charlotte/Desktop/AOC/Day2/Day2/obj/Debug/net6.0/Day2.AssemblyInfo.cs
+/Users/charlotte/Desktop/AOC/Day2/Day2/obj/Debug/net6.0/Day2.csproj.CoreCompileInputs.cache
+/Users/charlotte/Desktop/AOC/Day2/Day2/obj/Debug/net6.0/Day2.dll
+/Users/charlotte/Desktop/AOC/Day2/Day2/obj/Debug/net6.0/refint/Day2.dll
+/Users/charlotte/Desktop/AOC/Day2/Day2/obj/Debug/net6.0/Day2.pdb
+/Users/charlotte/Desktop/AOC/Day2/Day2/obj/Debug/net6.0/Day2.genruntimeconfig.cache
+/Users/charlotte/Desktop/AOC/Day2/Day2/obj/Debug/net6.0/ref/Day2.dll
